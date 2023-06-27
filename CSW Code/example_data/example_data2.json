@@ -1,0 +1,5 @@
+{"chromosome" : "2", "position" : "40.0", "markers" : [{"genotype" : "AA", "count" : 10}, {"genotype" : "AT", "count" : 1}, {"genotype" : "TT", "count" : 0}]}
+{"chromosome" : "2", "position" : "40.1", "markers" : [{"genotype" : "GG", "count" : 8}, {"genotype" : "GT", "count" : 1}, {"genotype" : "TT", "count" : 1}]}
+{"chromosome" : "2", "position" : "40.2", "markers" : [{"genotype" : "TT", "count" : 0}, {"genotype" : "AT", "count" : 2}, {"genotype" : "AA", "count" : 4}]}
+{"chromosome" : "2", "position" : "40.3", "markers" : [{"genotype" : "AA", "count" : 1}, {"genotype" : "AG", "count" : 1}, {"genotype" : "GG", "count" : 11}]}
+{"chromosome" : "2", "position" : "40.4", "markers" : [{"genotype" : "CC", "count" : 4}, {"genotype" : "CA", "count" : 1}, {"genotype" : "AA", "count" : 0}]}

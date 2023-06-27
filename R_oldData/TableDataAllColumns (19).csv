@@ -1,0 +1,321 @@
+﻿"Business Unit","Set Id","Set Name","Answer Id","Answer Method","Answer User Id","Answered Time","Attribute","Entity Id","Entity Type Code","Instance Seq","Locale","Localized Value","Question Code","Uom Code","Value","Secondary CSV","Secondary Answer 1","Secondary Answer 2","Secondary Answer 3","Secondary Answer 4","Value Type","Session Id","Activity Id","Answer Subsite Id","Experiment Name","Is User Deactivated","Repetition","User Deactivated Reason","User Deactivated UserId","User Deactivated DateTime","Is Relative Deactivated","Relative Deactivated Reason","Relative Deactivated UserId","Relative Deactivated DateTime","Overall Deactivated Status","Planting Year","Season","Regional Hub","Product Material Id","Product Name","Product Brand","Internal Seed Material Id","Internal Seed Line Code","Internal Seed Pre-Commercial Name","Internal Seed Origin","Internal Seed Barcode","Internal SeedConstructs","Internal Seed Transgenic Events","Entry Id","Entry Deactivation Reason","Entry Rep Number","Subsite Name","Subsite Id","Site Name","Homesite Name","Plot Rep","Plot Column","Plot Range","Plot Id","Treatment Number","Treatment Id","Block Id","Variable 1 Condensed","Variable 1 Blocking Factory Only","Variable 1 Name","Variable 1 Level","Variable 1 Uom","Variable 2 Condensed","Variable 2 Blocking Factory Only","Variable 2 Name","Variable 2 Level","Variable 2 Uom","Variable 3 Condensed","Variable 3 Blocking Factory Only","Variable 3 Name","Variable 3 Level","Variable 3 Uom","Variable 4 Condensed","Variable 4 Blocking Factory Only","Variable 4 Name","Variable 4 Level","Variable 4 Uom","Treatment Description","Experiment Design","Analysis Model","Experiment Id"
+"Plant Biotechnology",192416,"MSOY05 L01","906cfeeb-3ee6-4518-ae9a-1d3a4fcf03ee","User Collected","GMPXW","2023-05-22T20:57:24.481000Z","Primary Business","13542072","SET_ENTRY","C5972-I31","en-US","10","DSP","PCT","10","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539893,,,"M-SOY5942<GM_S22657257>","10730033","[""pMON427073""]","[""GM_S22657257""]",13542072,,4,,,,,,,,,1,3791908,56668,"Internal Seed M-SOY5942<GM_S22657257>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","M-SOY5942<GM_S22657257>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","36e418b2-a6bb-447e-b0d8-124c889c4722","User Collected","GMPXW","2023-05-22T20:57:24.219000Z","Primary Business","13542066","SET_ENTRY","C5972-I31","en-US","25","DSP","PCT","25","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539893,,,"M-SOY5942<GM_S22657257>","10730033","[""pMON427073""]","[""GM_S22657257""]",13542066,,1,,,,,,,,,1,3791908,56668,"Internal Seed M-SOY5942<GM_S22657257>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","M-SOY5942<GM_S22657257>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","a9cb3efc-96ee-4600-9a73-1e942153a6a1","User Collected","GMPXW","2023-05-22T20:57:24.290000Z","Primary Business","13542079","SET_ENTRY","C5972-I31","en-US","59","DSP","PCT","59","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539893,,,"M-SOY5942<GM_S22657257>","10730033","[""pMON427073""]","[""GM_S22657257""]",13542079,,8,,,,,,,,,1,3791908,56668,"Internal Seed M-SOY5942<GM_S22657257>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","M-SOY5942<GM_S22657257>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","8709cd23-65e5-4865-9fb5-b022926f068b","User Collected","GMPXW","2023-05-22T20:57:24.283000Z","Primary Business","13542080","SET_ENTRY","C5972-I31","en-US","77","DSP","PCT","77","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539893,,,"M-SOY5942<GM_S22657257>","10730033","[""pMON427073""]","[""GM_S22657257""]",13542080,,1,,,,,,,,,10,3791917,56668,"Internal Seed Null,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","Null","",,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","31e0fca6-2457-480c-bbb9-f73cc6cdccf2","User Collected","GMPXW","2023-05-22T20:57:24.286000Z","Primary Business","13542081","SET_ENTRY","C5972-I31","en-US","50","DSP","PCT","50","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539898,,,"AG3555<GM_S22666035>","10730035","[""pMON52051"",""pMON428514""]","[""GM_A19788"",""GM_S22666035""]",13542081,,1,,,,,,,,,2,3791909,56668,"Internal Seed AG3555<GM_S22666035>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","AG3555<GM_S22666035>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","cd62edca-9874-4adb-a4f1-87303bc7892c","User Collected","GMPXW","2023-05-22T20:57:25.043000Z","Primary Business","13542089","SET_ENTRY","C5972-I31","en-US","42","DSP","PCT","42","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539898,,,"AG3555<GM_S22666035>","10730035","[""pMON52051"",""pMON428514""]","[""GM_A19788"",""GM_S22666035""]",13542089,,4,,,,,,,,,2,3791909,56668,"Internal Seed AG3555<GM_S22666035>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","AG3555<GM_S22666035>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","e68a3fe3-b90d-486c-901f-2d335542f682","User Collected","GMPXW","2023-05-22T20:57:25.022000Z","Primary Business","13542083","SET_ENTRY","C5972-I31","en-US","32","DSP","PCT","32","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539898,,,"AG3555<GM_S22666035>","10730035","[""pMON52051"",""pMON428514""]","[""GM_A19788"",""GM_S22666035""]",13542083,,2,,,,,,,,,2,3791909,56668,"Internal Seed AG3555<GM_S22666035>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","AG3555<GM_S22666035>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","525ba996-4a36-4fdc-994d-0e74667bb296","User Collected","GMPXW","2023-05-22T20:57:24.295000Z","Primary Business","13542077","SET_ENTRY","C5972-I31","en-US","6","DSP","PCT","6","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539893,,,"M-SOY5942<GM_S22657257>","10730033","[""pMON427073""]","[""GM_S22657257""]",13542077,,7,,,,,,,,,1,3791908,56668,"Internal Seed M-SOY5942<GM_S22657257>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","M-SOY5942<GM_S22657257>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","9ee0dc5d-4d7f-42c7-b35a-7de785218efa","User Collected","GMPXW","2023-05-22T20:57:25.213000Z","Primary Business","13542092","SET_ENTRY","C5972-I31","en-US","68","DSP","PCT","68","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539898,,,"AG3555<GM_S22666035>","10730035","[""pMON52051"",""pMON428514""]","[""GM_A19788"",""GM_S22666035""]",13542092,,6,,,,,,,,,2,3791909,56668,"Internal Seed AG3555<GM_S22666035>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","AG3555<GM_S22666035>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","596da3d0-5156-45e0-9998-79ab65243722","User Collected","GMPXW","2023-05-22T20:57:24.275000Z","Primary Business","13542075","SET_ENTRY","C5972-I31","en-US","56","DSP","PCT","56","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539893,,,"M-SOY5942<GM_S22657257>","10730033","[""pMON427073""]","[""GM_S22657257""]",13542075,,6,,,,,,,,,1,3791908,56668,"Internal Seed M-SOY5942<GM_S22657257>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","M-SOY5942<GM_S22657257>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","41428342-a5d2-4256-8792-e605a49620ba","User Collected","GMPXW","2023-05-22T20:57:25.276000Z","Primary Business","13542094","SET_ENTRY","C5972-I31","en-US","7","DSP","PCT","7","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539898,,,"AG3555<GM_S22666035>","10730035","[""pMON52051"",""pMON428514""]","[""GM_A19788"",""GM_S22666035""]",13542094,,8,,,,,,,,,2,3791909,56668,"Internal Seed AG3555<GM_S22666035>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","AG3555<GM_S22666035>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","563bc9f4-a55b-4318-86e8-2887c80b3408","User Collected","GMPXW","2023-05-22T20:57:25.036000Z","Primary Business","13542085","SET_ENTRY","C5972-I31","en-US","38","DSP","PCT","38","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539898,,,"AG3555<GM_S22666035>","10730035","[""pMON52051"",""pMON428514""]","[""GM_A19788"",""GM_S22666035""]",13542085,,3,,,,,,,,,2,3791909,56668,"Internal Seed AG3555<GM_S22666035>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","AG3555<GM_S22666035>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","cb6725ba-a07f-46dc-af03-3edd8e4375c2","User Collected","GMPXW","2023-05-22T20:57:24.365000Z","Primary Business","13542067","SET_ENTRY","C5972-I31","en-US","91","DSP","PCT","91","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539893,,,"M-SOY5942<GM_S22657257>","10730033","[""pMON427073""]","[""GM_S22657257""]",13542067,,2,,,,,,,,,1,3791908,56668,"Internal Seed M-SOY5942<GM_S22657257>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","M-SOY5942<GM_S22657257>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","47dc852c-58ee-4f40-83de-237f1d29ce2c","User Collected","GMPXW","2023-05-22T20:57:25.203000Z","Primary Business","13542091","SET_ENTRY","C5972-I31","en-US","49","DSP","PCT","49","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539898,,,"AG3555<GM_S22666035>","10730035","[""pMON52051"",""pMON428514""]","[""GM_A19788"",""GM_S22666035""]",13542091,,5,,,,,,,,,2,3791909,56668,"Internal Seed AG3555<GM_S22666035>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","AG3555<GM_S22666035>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","d9675a32-97be-42f2-a186-3f43d7d66e80","User Collected","GMPXW","2023-05-22T20:57:24.301000Z","Primary Business","13542073","SET_ENTRY","C5972-I31","en-US","35","DSP","PCT","35","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539893,,,"M-SOY5942<GM_S22657257>","10730033","[""pMON427073""]","[""GM_S22657257""]",13542073,,5,,,,,,,,,1,3791908,56668,"Internal Seed M-SOY5942<GM_S22657257>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","M-SOY5942<GM_S22657257>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","83d3c204-e854-4311-9449-004aff063de6","User Collected","GMPXW","2023-05-22T20:57:24.299000Z","Primary Business","13542069","SET_ENTRY","C5972-I31","en-US","63","DSP","PCT","63","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539893,,,"M-SOY5942<GM_S22657257>","10730033","[""pMON427073""]","[""GM_S22657257""]",13542069,,3,,,,,,,,,1,3791908,56668,"Internal Seed M-SOY5942<GM_S22657257>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","M-SOY5942<GM_S22657257>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","5045aa48-9567-4de6-87f0-582013f7ba8a","User Collected","GMPXW","2023-05-22T20:57:25.279000Z","Primary Business","13542095","SET_ENTRY","C5972-I31","en-US","76","DSP","PCT","76","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539898,,,"AG3555<GM_S22666035>","10730035","[""pMON52051"",""pMON428514""]","[""GM_A19788"",""GM_S22666035""]",13542095,,2,,,,,,,,,10,3791917,56668,"Internal Seed Null,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","Null","",,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","27353857-1eb1-4c61-9cbb-9b478f1967f5","User Collected","GMPXW","2023-05-22T20:57:25.451000Z","Primary Business","13542097","SET_ENTRY","C5972-I31","en-US","45","DSP","PCT","45","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539900,,,"A3555<GM_S22692864>","10729548","[""pMON131712""]","[""GM_S22692864""]",13542097,,1,,,,,,,,,3,3791910,56668,"Internal Seed A3555<GM_S22692864>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22692864>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","0b09dade-9b35-4a8f-8b4e-88a3a9673b87","User Collected","GMPXW","2023-05-22T20:57:25.265000Z","Primary Business","13542093","SET_ENTRY","C5972-I31","en-US","54","DSP","PCT","54","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539898,,,"AG3555<GM_S22666035>","10730035","[""pMON52051"",""pMON428514""]","[""GM_A19788"",""GM_S22666035""]",13542093,,7,,,,,,,,,2,3791909,56668,"Internal Seed AG3555<GM_S22666035>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","AG3555<GM_S22666035>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","b414fe22-a107-45cd-946e-1d2fc327d3bc","User Collected","GMPXW","2023-05-22T20:57:25.469000Z","Primary Business","13542101","SET_ENTRY","C5972-I31","en-US","77","DSP","PCT","77","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539900,,,"A3555<GM_S22692864>","10729548","[""pMON131712""]","[""GM_S22692864""]",13542101,,3,,,,,,,,,3,3791910,56668,"Internal Seed A3555<GM_S22692864>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22692864>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","f903656a-db53-46e0-8c6b-997791bcffed","User Collected","GMPXW","2023-05-22T20:57:25.466000Z","Primary Business","13542100","SET_ENTRY","C5972-I31","en-US","52","DSP","PCT","52","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539900,,,"A3555<GM_S22692864>","10729548","[""pMON131712""]","[""GM_S22692864""]",13542100,,2,,,,,,,,,3,3791910,56668,"Internal Seed A3555<GM_S22692864>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22692864>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","309ef484-9509-424c-a6bf-d69f887cc54c","User Collected","GMPXW","2023-05-22T20:57:25.586000Z","Primary Business","13542106","SET_ENTRY","C5972-I31","en-US","35","DSP","PCT","35","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539900,,,"A3555<GM_S22692864>","10729548","[""pMON131712""]","[""GM_S22692864""]",13542106,,5,,,,,,,,,3,3791910,56668,"Internal Seed A3555<GM_S22692864>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22692864>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","047c3e3a-2b89-4abb-b18e-93bbd1f918ef","User Collected","GMPXW","2023-05-22T20:57:25.576000Z","Primary Business","13542104","SET_ENTRY","C5972-I31","en-US","17","DSP","PCT","17","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539900,,,"A3555<GM_S22692864>","10729548","[""pMON131712""]","[""GM_S22692864""]",13542104,,4,,,,,,,,,3,3791910,56668,"Internal Seed A3555<GM_S22692864>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22692864>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","dffc3618-4bf3-4ec4-97f3-5eccf8747975","User Collected","GMPXW","2023-05-22T20:57:25.664000Z","Primary Business","13542110","SET_ENTRY","C5972-I31","en-US","86","DSP","PCT","86","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539900,,,"A3555<GM_S22692864>","10729548","[""pMON131712""]","[""GM_S22692864""]",13542110,,3,,,,,,,,,10,3791917,56668,"Internal Seed Null,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","Null","",,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","a545c99d-d302-4d2d-bae0-5a132f7cedc5","User Collected","GMPXW","2023-05-22T20:57:25.588000Z","Primary Business","13542107","SET_ENTRY","C5972-I31","en-US","43","DSP","PCT","43","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539900,,,"A3555<GM_S22692864>","10729548","[""pMON131712""]","[""GM_S22692864""]",13542107,,6,,,,,,,,,3,3791910,56668,"Internal Seed A3555<GM_S22692864>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22692864>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","11e8b972-cb0b-48e3-bf22-d8d12539e1c2","User Collected","GMPXW","2023-05-22T20:57:25.593000Z","Primary Business","13542108","SET_ENTRY","C5972-I31","en-US","85","DSP","PCT","85","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539900,,,"A3555<GM_S22692864>","10729548","[""pMON131712""]","[""GM_S22692864""]",13542108,,7,,,,,,,,,3,3791910,56668,"Internal Seed A3555<GM_S22692864>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22692864>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","ac7da69c-1b46-47b2-b178-3e27c02b1364","User Collected","GMPXW","2023-05-22T20:57:25.666000Z","Primary Business","13542109","SET_ENTRY","C5972-I31","en-US","35","DSP","PCT","35","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539900,,,"A3555<GM_S22692864>","10729548","[""pMON131712""]","[""GM_S22692864""]",13542109,,8,,,,,,,,,3,3791910,56668,"Internal Seed A3555<GM_S22692864>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22692864>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","73e6b2e4-936f-427c-940a-aa0c1dac2f46","User Collected","GMPXW","2023-05-22T20:57:25.878000Z","Primary Business","13542113","SET_ENTRY","C5972-I31","en-US","1","DSP","PCT","1","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539899,,,"A3555<GM_S22694290>","10729547","[""pMON425781""]","[""GM_S22694290""]",13542113,,4,,,,,,,,,10,3791917,56668,"Internal Seed Null,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","Null","",,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","7cdf985f-faef-4e47-838f-fac50c800485","User Collected","GMPXW","2023-05-22T20:57:25.886000Z","Primary Business","13542111","SET_ENTRY","C5972-I31","en-US","17","DSP","PCT","17","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539899,,,"A3555<GM_S22694290>","10729547","[""pMON425781""]","[""GM_S22694290""]",13542111,,1,,,,,,,,,4,3791911,56668,"Internal Seed A3555<GM_S22694290>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22694290>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","fa774a17-4adc-4592-aa90-24a31bee91de","User Collected","GMPXW","2023-05-22T20:57:25.883000Z","Primary Business","13542117","SET_ENTRY","C5972-I31","en-US","83","DSP","PCT","83","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539899,,,"A3555<GM_S22694290>","10729547","[""pMON425781""]","[""GM_S22694290""]",13542117,,2,,,,,,,,,4,3791911,56668,"Internal Seed A3555<GM_S22694290>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22694290>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","b9d98794-cbab-401d-a5b6-8e7c59fe1fa6","User Collected","GMPXW","2023-05-22T20:57:25.992000Z","Primary Business","13542122","SET_ENTRY","C5972-I31","en-US","57","DSP","PCT","57","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539899,,,"A3555<GM_S22694290>","10729547","[""pMON425781""]","[""GM_S22694290""]",13542122,,5,,,,,,,,,4,3791911,56668,"Internal Seed A3555<GM_S22694290>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22694290>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","192cc8eb-960f-406d-b529-ed3f3916dccc","User Collected","GMPXW","2023-05-22T20:57:25.896000Z","Primary Business","13542120","SET_ENTRY","C5972-I31","en-US","30","DSP","PCT","30","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539899,,,"A3555<GM_S22694290>","10729547","[""pMON425781""]","[""GM_S22694290""]",13542120,,3,,,,,,,,,4,3791911,56668,"Internal Seed A3555<GM_S22694290>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22694290>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","43c2af57-e861-4390-81d6-1a002d6a1b0d","User Collected","GMPXW","2023-05-22T20:57:25.989000Z","Primary Business","13542121","SET_ENTRY","C5972-I31","en-US","21","DSP","PCT","21","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539899,,,"A3555<GM_S22694290>","10729547","[""pMON425781""]","[""GM_S22694290""]",13542121,,4,,,,,,,,,4,3791911,56668,"Internal Seed A3555<GM_S22694290>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22694290>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","ac97bfb2-4aae-40f8-a69b-35f5dc3d37a6","User Collected","GMPXW","2023-05-22T20:57:26.085000Z","Primary Business","13542125","SET_ENTRY","C5972-I31","en-US","63","DSP","PCT","63","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539899,,,"A3555<GM_S22694290>","10729547","[""pMON425781""]","[""GM_S22694290""]",13542125,,8,,,,,,,,,4,3791911,56668,"Internal Seed A3555<GM_S22694290>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22694290>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","1925a812-e28c-4931-84fd-dadf87abb162","User Collected","GMPXW","2023-05-22T20:57:26.080000Z","Primary Business","13542123","SET_ENTRY","C5972-I31","en-US","20","DSP","PCT","20","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539899,,,"A3555<GM_S22694290>","10729547","[""pMON425781""]","[""GM_S22694290""]",13542123,,6,,,,,,,,,4,3791911,56668,"Internal Seed A3555<GM_S22694290>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22694290>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","bd2155b6-c523-4ae3-bc06-ebaf56f9c6ae","User Collected","GMPXW","2023-05-22T20:57:26.164000Z","Primary Business","13542124","SET_ENTRY","C5972-I31","en-US","12","DSP","PCT","12","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539899,,,"A3555<GM_S22694290>","10729547","[""pMON425781""]","[""GM_S22694290""]",13542124,,7,,,,,,,,,4,3791911,56668,"Internal Seed A3555<GM_S22694290>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22694290>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","bb8e3145-24c9-4b6a-a8b9-c77649d9c4f0","User Collected","GMPXW","2023-05-22T20:57:26.364000Z","Primary Business","13542126","SET_ENTRY","C5972-I31","en-US","62","DSP","PCT","62","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539894,,,"A3555<GM_S22694306>","10730034","[""pMON425781""]","[""GM_S22694306""]",13542126,,5,,,,,,,,,10,3791917,56668,"Internal Seed Null,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","Null","",,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","6cd9d8a7-fcb5-4949-b9fb-083a4d5076a9","User Collected","GMPXW","2023-05-22T20:57:26.973000Z","Primary Business","13542127","SET_ENTRY","C5972-I31","en-US","91","DSP","PCT","91","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539894,,,"A3555<GM_S22694306>","10730034","[""pMON425781""]","[""GM_S22694306""]",13542127,,1,,,,,,,,,5,3791912,56668,"Internal Seed A3555<GM_S22694306>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22694306>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","bc215eba-9bb6-4da8-8cef-e1a9c106584d","User Collected","GMPXW","2023-05-22T20:57:27.269000Z","Primary Business","13542138","SET_ENTRY","C5972-I31","en-US","79","DSP","PCT","79","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539894,,,"A3555<GM_S22694306>","10730034","[""pMON425781""]","[""GM_S22694306""]",13542138,,6,,,,,,,,,5,3791912,56668,"Internal Seed A3555<GM_S22694306>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22694306>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","21ddee95-3bcc-4699-9415-92f0ad2be6aa","User Collected","GMPXW","2023-05-22T20:57:27.201000Z","Primary Business","13542130","SET_ENTRY","C5972-I31","en-US","17","DSP","PCT","17","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539894,,,"A3555<GM_S22694306>","10730034","[""pMON425781""]","[""GM_S22694306""]",13542130,,2,,,,,,,,,5,3791912,56668,"Internal Seed A3555<GM_S22694306>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22694306>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","35b2ab68-acbb-4ccc-befb-35e5ae80d134","User Collected","GMPXW","2023-05-22T20:57:27.270000Z","Primary Business","13542136","SET_ENTRY","C5972-I31","en-US","36","DSP","PCT","36","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539894,,,"A3555<GM_S22694306>","10730034","[""pMON425781""]","[""GM_S22694306""]",13542136,,4,,,,,,,,,5,3791912,56668,"Internal Seed A3555<GM_S22694306>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22694306>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","756494c1-93d2-4932-933b-031028144654","User Collected","GMPXW","2023-05-22T20:57:27.273000Z","Primary Business","13542137","SET_ENTRY","C5972-I31","en-US","32","DSP","PCT","32","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539894,,,"A3555<GM_S22694306>","10730034","[""pMON425781""]","[""GM_S22694306""]",13542137,,5,,,,,,,,,5,3791912,56668,"Internal Seed A3555<GM_S22694306>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22694306>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","4dcc5385-f795-4dda-90dd-a9d320a4c4fb","User Collected","GMPXW","2023-05-22T20:57:27.266000Z","Primary Business","13542131","SET_ENTRY","C5972-I31","en-US","32","DSP","PCT","32","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539894,,,"A3555<GM_S22694306>","10730034","[""pMON425781""]","[""GM_S22694306""]",13542131,,3,,,,,,,,,5,3791912,56668,"Internal Seed A3555<GM_S22694306>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22694306>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","d1c57508-d8f8-48a7-95d2-28ea75094149","User Collected","GMPXW","2023-05-22T20:57:27.275000Z","Primary Business","13542139","SET_ENTRY","C5972-I31","en-US","54","DSP","PCT","54","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539894,,,"A3555<GM_S22694306>","10730034","[""pMON425781""]","[""GM_S22694306""]",13542139,,7,,,,,,,,,5,3791912,56668,"Internal Seed A3555<GM_S22694306>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22694306>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","43d17fd9-d72d-4190-a90f-89247cc71d07","User Collected","GMPXW","2023-05-22T20:57:27.274000Z","Primary Business","13542142","SET_ENTRY","C5972-I31","en-US","17","DSP","PCT","17","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539901,,,"AG3555<GM_S22705416>","10730037","[""pMON52051"",""pMON426569""]","[""GM_A19788"",""GM_S22705416""]",13542142,,6,,,,,,,,,10,3791917,56668,"Internal Seed Null,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","Null","",,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","86138ff3-1b06-4efe-8910-6c88206060b7","User Collected","GMPXW","2023-05-22T20:57:27.380000Z","Primary Business","13542148","SET_ENTRY","C5972-I31","en-US","20","DSP","PCT","20","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539901,,,"AG3555<GM_S22705416>","10730037","[""pMON52051"",""pMON426569""]","[""GM_A19788"",""GM_S22705416""]",13542148,,1,,,,,,,,,6,3791913,56668,"Internal Seed AG3555<GM_S22705416>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","AG3555<GM_S22705416>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","85c5a604-74b2-4538-a815-7220e71ceae3","User Collected","GMPXW","2023-05-22T20:57:27.279000Z","Primary Business","13542145","SET_ENTRY","C5972-I31","en-US","23","DSP","PCT","23","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539901,,,"AG3555<GM_S22705416>","10730037","[""pMON52051"",""pMON426569""]","[""GM_A19788"",""GM_S22705416""]",13542145,,8,,,,,,,,,5,3791912,56668,"Internal Seed A3555<GM_S22694306>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22694306>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","8583fa61-e7c1-4afe-b3b4-307c08da1c24","User Collected","GMPXW","2023-05-22T20:57:27.497000Z","Primary Business","13542149","SET_ENTRY","C5972-I31","en-US","81","DSP","PCT","81","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539901,,,"AG3555<GM_S22705416>","10730037","[""pMON52051"",""pMON426569""]","[""GM_A19788"",""GM_S22705416""]",13542149,,2,,,,,,,,,6,3791913,56668,"Internal Seed AG3555<GM_S22705416>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","AG3555<GM_S22705416>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","475a970f-85b2-428d-82e9-a08b5828bade","User Collected","GMPXW","2023-05-22T20:57:27.566000Z","Primary Business","13542152","SET_ENTRY","C5972-I31","en-US","92","DSP","PCT","92","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539901,,,"AG3555<GM_S22705416>","10730037","[""pMON52051"",""pMON426569""]","[""GM_A19788"",""GM_S22705416""]",13542152,,5,,,,,,,,,6,3791913,56668,"Internal Seed AG3555<GM_S22705416>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","AG3555<GM_S22705416>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","0d282990-f47a-4042-ab53-ec9b4641a543","User Collected","GMPXW","2023-05-22T20:57:27.530000Z","Primary Business","13542150","SET_ENTRY","C5972-I31","en-US","24","DSP","PCT","24","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539901,,,"AG3555<GM_S22705416>","10730037","[""pMON52051"",""pMON426569""]","[""GM_A19788"",""GM_S22705416""]",13542150,,3,,,,,,,,,6,3791913,56668,"Internal Seed AG3555<GM_S22705416>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","AG3555<GM_S22705416>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","3d55184a-1d4e-4b0d-aedb-e1b6acef0cf3","User Collected","GMPXW","2023-05-22T20:57:27.534000Z","Primary Business","13542151","SET_ENTRY","C5972-I31","en-US","68","DSP","PCT","68","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539901,,,"AG3555<GM_S22705416>","10730037","[""pMON52051"",""pMON426569""]","[""GM_A19788"",""GM_S22705416""]",13542151,,4,,,,,,,,,6,3791913,56668,"Internal Seed AG3555<GM_S22705416>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","AG3555<GM_S22705416>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","89850992-a788-45d1-92b9-3f33d9aa894d","User Collected","GMPXW","2023-05-22T20:57:27.576000Z","Primary Business","13542153","SET_ENTRY","C5972-I31","en-US","70","DSP","PCT","70","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539901,,,"AG3555<GM_S22705416>","10730037","[""pMON52051"",""pMON426569""]","[""GM_A19788"",""GM_S22705416""]",13542153,,6,,,,,,,,,6,3791913,56668,"Internal Seed AG3555<GM_S22705416>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","AG3555<GM_S22705416>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","db93343a-d80f-4e22-aa60-9df0b4488d7d","User Collected","GMPXW","2023-05-22T20:57:27.680000Z","Primary Business","13542156","SET_ENTRY","C5972-I31","en-US","45","DSP","PCT","45","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539895,,,"AG3555<GM_S22716983>","10730036","[""pMON52051"",""pMON428301""]","[""GM_A19788"",""GM_S22716983""]",13542156,,1,,,,,,,,,7,3791914,56668,"Internal Seed AG3555<GM_S22716983>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","AG3555<GM_S22716983>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","fa1321e8-c052-45c3-83b9-4ffe56a7cbb6","User Collected","GMPXW","2023-05-22T20:57:27.684000Z","Primary Business","13542157","SET_ENTRY","C5972-I31","en-US","8","DSP","PCT","8","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539895,,,"AG3555<GM_S22716983>","10730036","[""pMON52051"",""pMON428301""]","[""GM_A19788"",""GM_S22716983""]",13542157,,7,,,,,,,,,10,3791917,56668,"Internal Seed Null,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","Null","",,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","30b0f6d5-dd67-42ac-b418-4f2d3831b876","User Collected","GMPXW","2023-05-22T20:57:27.581000Z","Primary Business","13542155","SET_ENTRY","C5972-I31","en-US","95","DSP","PCT","95","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539901,,,"AG3555<GM_S22705416>","10730037","[""pMON52051"",""pMON426569""]","[""GM_A19788"",""GM_S22705416""]",13542155,,8,,,,,,,,,6,3791913,56668,"Internal Seed AG3555<GM_S22705416>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","AG3555<GM_S22705416>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","6fbdd41f-fc9d-4f2e-b405-8a166db5e5a7","User Collected","GMPXW","2023-05-22T20:57:27.579000Z","Primary Business","13542154","SET_ENTRY","C5972-I31","en-US","82","DSP","PCT","82","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539901,,,"AG3555<GM_S22705416>","10730037","[""pMON52051"",""pMON426569""]","[""GM_A19788"",""GM_S22705416""]",13542154,,7,,,,,,,,,6,3791913,56668,"Internal Seed AG3555<GM_S22705416>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","AG3555<GM_S22705416>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","3d76464b-5674-4571-bf1c-d4018b2bab92","User Collected","GMPXW","2023-05-22T20:57:27.684000Z","Primary Business","13542159","SET_ENTRY","C5972-I31","en-US","26","DSP","PCT","26","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539895,,,"AG3555<GM_S22716983>","10730036","[""pMON52051"",""pMON428301""]","[""GM_A19788"",""GM_S22716983""]",13542159,,2,,,,,,,,,7,3791914,56668,"Internal Seed AG3555<GM_S22716983>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","AG3555<GM_S22716983>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","109de98a-d37e-4e68-ac9a-eb352aba6a6d","User Collected","GMPXW","2023-05-22T20:57:27.687000Z","Primary Business","13542165","SET_ENTRY","C5972-I31","en-US","78","DSP","PCT","78","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539895,,,"AG3555<GM_S22716983>","10730036","[""pMON52051"",""pMON428301""]","[""GM_A19788"",""GM_S22716983""]",13542165,,3,,,,,,,,,7,3791914,56668,"Internal Seed AG3555<GM_S22716983>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","AG3555<GM_S22716983>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","7f527074-7d50-44be-8acf-60c3845ff27e","User Collected","GMPXW","2023-05-22T20:57:27.884000Z","Primary Business","13542166","SET_ENTRY","C5972-I31","en-US","96","DSP","PCT","96","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539895,,,"AG3555<GM_S22716983>","10730036","[""pMON52051"",""pMON428301""]","[""GM_A19788"",""GM_S22716983""]",13542166,,4,,,,,,,,,7,3791914,56668,"Internal Seed AG3555<GM_S22716983>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","AG3555<GM_S22716983>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","a95fd5d0-a7a9-4189-8203-92c08cd0a03d","User Collected","GMPXW","2023-05-22T20:57:27.893000Z","Primary Business","13542167","SET_ENTRY","C5972-I31","en-US","39","DSP","PCT","39","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539895,,,"AG3555<GM_S22716983>","10730036","[""pMON52051"",""pMON428301""]","[""GM_A19788"",""GM_S22716983""]",13542167,,5,,,,,,,,,7,3791914,56668,"Internal Seed AG3555<GM_S22716983>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","AG3555<GM_S22716983>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","8a29dde2-d810-49f5-9b2c-270eafc31163","User Collected","GMPXW","2023-05-22T20:57:27.965000Z","Primary Business","13542169","SET_ENTRY","C5972-I31","en-US","51","DSP","PCT","51","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539895,,,"AG3555<GM_S22716983>","10730036","[""pMON52051"",""pMON428301""]","[""GM_A19788"",""GM_S22716983""]",13542169,,7,,,,,,,,,7,3791914,56668,"Internal Seed AG3555<GM_S22716983>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","AG3555<GM_S22716983>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","af1a05dc-a84a-4449-8c41-3f51b82ac169","User Collected","GMPXW","2023-05-22T20:57:27.896000Z","Primary Business","13542168","SET_ENTRY","C5972-I31","en-US","28","DSP","PCT","28","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539895,,,"AG3555<GM_S22716983>","10730036","[""pMON52051"",""pMON428301""]","[""GM_A19788"",""GM_S22716983""]",13542168,,6,,,,,,,,,7,3791914,56668,"Internal Seed AG3555<GM_S22716983>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","AG3555<GM_S22716983>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","c7093015-7fe6-47d1-8fa7-2b315906ebfb","User Collected","GMPXW","2023-05-22T20:57:27.979000Z","Primary Business","13542170","SET_ENTRY","C5972-I31","en-US","61","DSP","PCT","61","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539895,,,"AG3555<GM_S22716983>","10730036","[""pMON52051"",""pMON428301""]","[""GM_A19788"",""GM_S22716983""]",13542170,,8,,,,,,,,,7,3791914,56668,"Internal Seed AG3555<GM_S22716983>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","AG3555<GM_S22716983>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","f6291778-ea5e-48e6-bc58-a42cc31ca588","User Collected","GMPXW","2023-05-22T20:57:28.072000Z","Primary Business","13542173","SET_ENTRY","C5972-I31","en-US","15","DSP","PCT","15","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539897,,,"M-SOY5942<GM_S22721653>","10729549","[""pMON427339""]","[""GM_S22721653""]",13542173,,8,,,,,,,,,10,3791917,56668,"Internal Seed Null,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","Null","",,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","49697d00-d955-4e6c-903f-9abade7024de","User Collected","GMPXW","2023-05-22T20:57:28.068000Z","Primary Business","13542171","SET_ENTRY","C5972-I31","en-US","57","DSP","PCT","57","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539897,,,"M-SOY5942<GM_S22721653>","10729549","[""pMON427339""]","[""GM_S22721653""]",13542171,,1,,,,,,,,,8,3791915,56668,"Internal Seed M-SOY5942<GM_S22721653>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","M-SOY5942<GM_S22721653>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","2ecca611-3a5c-4f8a-a784-f261b7a49531","User Collected","GMPXW","2023-05-22T20:57:28.074000Z","Primary Business","13542180","SET_ENTRY","C5972-I31","en-US","81","DSP","PCT","81","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539897,,,"M-SOY5942<GM_S22721653>","10729549","[""pMON427339""]","[""GM_S22721653""]",13542180,,4,,,,,,,,,8,3791915,56668,"Internal Seed M-SOY5942<GM_S22721653>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","M-SOY5942<GM_S22721653>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","139b0938-9881-4a82-8c7a-620be8238b8a","User Collected","GMPXW","2023-05-22T20:57:28.075000Z","Primary Business","13542177","SET_ENTRY","C5972-I31","en-US","1","DSP","PCT","1","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539897,,,"M-SOY5942<GM_S22721653>","10729549","[""pMON427339""]","[""GM_S22721653""]",13542177,,2,,,,,,,,,8,3791915,56668,"Internal Seed M-SOY5942<GM_S22721653>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","M-SOY5942<GM_S22721653>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","e53c72a5-5ed3-40fa-ad6b-865141b89eda","User Collected","GMPXW","2023-05-22T20:57:28.073000Z","Primary Business","13542178","SET_ENTRY","C5972-I31","en-US","19","DSP","PCT","19","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539897,,,"M-SOY5942<GM_S22721653>","10729549","[""pMON427339""]","[""GM_S22721653""]",13542178,,3,,,,,,,,,8,3791915,56668,"Internal Seed M-SOY5942<GM_S22721653>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","M-SOY5942<GM_S22721653>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","a4b3f6f3-dbd8-4aac-8931-dbb38ae939b0","User Collected","GMPXW","2023-05-22T20:57:28.176000Z","Primary Business","13542181","SET_ENTRY","C5972-I31","en-US","99","DSP","PCT","99","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539897,,,"M-SOY5942<GM_S22721653>","10729549","[""pMON427339""]","[""GM_S22721653""]",13542181,,5,,,,,,,,,8,3791915,56668,"Internal Seed M-SOY5942<GM_S22721653>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","M-SOY5942<GM_S22721653>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","3be271fa-55f3-4325-9111-df40b022c123","User Collected","GMPXW","2023-05-22T20:57:28.273000Z","Primary Business","13542182","SET_ENTRY","C5972-I31","en-US","34","DSP","PCT","34","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539897,,,"M-SOY5942<GM_S22721653>","10729549","[""pMON427339""]","[""GM_S22721653""]",13542182,,6,,,,,,,,,8,3791915,56668,"Internal Seed M-SOY5942<GM_S22721653>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","M-SOY5942<GM_S22721653>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","73d59d18-7d0a-4ec3-8d1b-541457d37fb5","User Collected","GMPXW","2023-05-22T20:57:28.276000Z","Primary Business","13542183","SET_ENTRY","C5972-I31","en-US","87","DSP","PCT","87","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539897,,,"M-SOY5942<GM_S22721653>","10729549","[""pMON427339""]","[""GM_S22721653""]",13542183,,7,,,,,,,,,8,3791915,56668,"Internal Seed M-SOY5942<GM_S22721653>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","M-SOY5942<GM_S22721653>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","389ed726-0ed2-4c03-94be-3a1e6a815cb8","User Collected","GMPXW","2023-05-22T20:57:28.280000Z","Primary Business","13542184","SET_ENTRY","C5972-I31","en-US","13","DSP","PCT","13","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539897,,,"M-SOY5942<GM_S22721653>","10729549","[""pMON427339""]","[""GM_S22721653""]",13542184,,8,,,,,,,,,8,3791915,56668,"Internal Seed M-SOY5942<GM_S22721653>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","M-SOY5942<GM_S22721653>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","3ad17835-4ea0-4556-937d-c780e6225d96","User Collected","GMPXW","2023-05-22T20:57:28.280000Z","Primary Business","13542186","SET_ENTRY","C5972-I31","en-US","87","DSP","PCT","87","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539896,,,"A3555<GM_S22694496>","10730038","[""pMON131712""]","[""GM_S22694496""]",13542186,,1,,,,,,,,,9,3791916,56668,"Internal Seed A3555<GM_S22694496>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22694496>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","49143958-e6c1-4feb-b7a4-78e1fb89bc2f","User Collected","GMPXW","2023-05-22T20:57:28.377000Z","Primary Business","13542187","SET_ENTRY","C5972-I31","en-US","19","DSP","PCT","19","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539896,,,"A3555<GM_S22694496>","10730038","[""pMON131712""]","[""GM_S22694496""]",13542187,,2,,,,,,,,,9,3791916,56668,"Internal Seed A3555<GM_S22694496>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22694496>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","fa0b9204-d307-4d45-a85b-18ff5f988e09","User Collected","GMPXW","2023-05-22T20:57:28.464000Z","Primary Business","13542191","SET_ENTRY","C5972-I31","en-US","34","DSP","PCT","34","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539896,,,"A3555<GM_S22694496>","10730038","[""pMON131712""]","[""GM_S22694496""]",13542191,,6,,,,,,,,,9,3791916,56668,"Internal Seed A3555<GM_S22694496>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22694496>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","6057af5a-8ae8-4b6d-8a11-d609e3455a74","User Collected","GMPXW","2023-05-22T20:57:28.391000Z","Primary Business","13542188","SET_ENTRY","C5972-I31","en-US","82","DSP","PCT","82","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539896,,,"A3555<GM_S22694496>","10730038","[""pMON131712""]","[""GM_S22694496""]",13542188,,3,,,,,,,,,9,3791916,56668,"Internal Seed A3555<GM_S22694496>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22694496>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","ff6d8e56-0268-4ae5-b96d-a81298ee5ddf","User Collected","GMPXW","2023-05-22T20:57:28.394000Z","Primary Business","13542189","SET_ENTRY","C5972-I31","en-US","51","DSP","PCT","51","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539896,,,"A3555<GM_S22694496>","10730038","[""pMON131712""]","[""GM_S22694496""]",13542189,,4,,,,,,,,,9,3791916,56668,"Internal Seed A3555<GM_S22694496>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22694496>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","342aa586-0b5e-40e5-9807-2866eb5a6f4e","User Collected","GMPXW","2023-05-22T20:57:28.393000Z","Primary Business","13542190","SET_ENTRY","C5972-I31","en-US","84","DSP","PCT","84","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539896,,,"A3555<GM_S22694496>","10730038","[""pMON131712""]","[""GM_S22694496""]",13542190,,5,,,,,,,,,9,3791916,56668,"Internal Seed A3555<GM_S22694496>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22694496>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","b8ac4e70-bc26-4468-a418-5c8ad11578ee","User Collected","GMPXW","2023-05-22T20:57:28.469000Z","Primary Business","13542197","SET_ENTRY","C5972-I31","en-US","42","DSP","PCT","42","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539896,,,"A3555<GM_S22694496>","10730038","[""pMON131712""]","[""GM_S22694496""]",13542197,,7,,,,,,,,,9,3791916,56668,"Internal Seed A3555<GM_S22694496>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22694496>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683
+"Plant Biotechnology",192416,"MSOY05 L01","795e91ba-1baf-45f9-a34c-a16d267d61ff","User Collected","GMPXW","2023-05-22T20:57:28.591000Z","Primary Business","13542200","SET_ENTRY","C5972-I31","en-US","70","DSP","PCT","70","User Collected,14 Days,Soybeans,Leaf","ANSM: User Collected","TAIET: 14 Days","TAXA: Soybeans","TISTY: Leaf","NUMBER",,,,"MSOY05",false,,,,,,,,,false,,,,,,,539896,,,"A3555<GM_S22694496>","10730038","[""pMON131712""]","[""GM_S22694496""]",13542200,,8,,,,,,,,,9,3791916,56668,"Internal Seed A3555<GM_S22694496>,
+Microorganisms PHAKPA,
+Inoculum Concentration 2,000,000 PROP_PER_ML,
+Inoculum Application Rate 1 ML_PER_EU",false,"Internal Seed","A3555<GM_S22694496>",,,,,,,,,,,,,,,,,,"rcb","RCB BLUE",30683

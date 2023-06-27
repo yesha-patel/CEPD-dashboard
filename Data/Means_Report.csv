@@ -1,0 +1,124 @@
+﻿Row Id,Analysis Config Name,Analysis Configuration,Output,Model Type,Model Scope,Analysis Completed Time,Configuration Execution,Datacut Includes All Blocking Factors,Datacut Blocking Factors Csv,Question Code,Answer Filters Csv,Blocking Factor Values Csv,Treatment Variable,Treatment Factors,Lower CI,Upper CI,Standard Error,Treatment Estimate Value,Unit Of Measure,Separation/Equality Groups,Factor 1 Level,Factor 1 Condensed String,Factor 1 Variable Level Id,Factor 1 Label,Factor 1 Uom Code,Factor 1 Source,Factor 1 Blocking Factor Only,Factor 1 Constructs,Factor 1 Events,Factor 1 Line Code,Factor 1 Origin,Factor 1 Mon Number,Factor 1 Bcs Code,Factor 1 Product Identifier,Factor 2 Level,Factor 2 Condensed String,Factor 2 Variable Level Id,Factor 2  Label,Factor 2  Uom Code,Factor 2  Source,Factor 2  Blocking Factor Only,Factor 2 Constructs,Factor 2 Events,Factor 2 Line Code,Factor 2 Origin,Factor 2 Bcs Code,Factor 2 Mon Number,Factor 2 Product Identifier,Means Blocking Factors,Protocol Id,Protocol Name,Submission Id,Submission Name,Experiment Name,Site Names,Subsite Names,Block Names,Experiment Id,Treatment Number,Block Id
+1,MSOY05,646bd7f36eece1d29b619f8b,module-outputs/2QCH7ugvW7KTac5oonXxV61JBaZ,ANOVA,LOCAL,2023-05-23T14:01:18.543130581Z,configuration-executions/2QCH5hTZwqApolVhpXPDm2vAe91,TRUE,,INOCAPPDT,"TAIET:14 Days, TAXA:Soybeans, TISTY:Leaf",,factorLevelId,"[""2850634""]",26.8249,59.4251,9.9098,43.125,PCT,b,M-SOY5942<GM_S22657257>,"Internal Seed M-SOY5942<GM_S22657257>
+Microorganisms PHAKPA
+Inoculum Concentration 2,000,000
+Inoculum Application Rate 1",2850634,Internal Seed,,INTERNAL_SEED,FALSE,pMON427073,GM_S22657257,,M-SOY5942<GM_S22657257>,,,,,,,,,,,,,,,,,,"[""SUBSITE:192416""]",28949,DC-Trait-soy-ASR (PHAKPA),10217,2022_GMPXW_MSOY05,MSOY05,,,,30683,1,12249
+2,MSOY05,646bd7f36eece1d29b619f8b,module-outputs/2QCH7ugvW7KTac5oonXxV61JBaZ,ANOVA,LOCAL,2023-05-23T14:01:18.543130581Z,configuration-executions/2QCH5hTZwqApolVhpXPDm2vAe91,TRUE,,DSP,"TAIET:14 Days, TAXA:Soybeans, TISTY:Leaf",,factorLevelId,"[""2850635""]",26.1999,58.8001,9.9098,42.5,PCT,b,AG3555<GM_S22666035>,"Internal Seed AG3555<GM_S22666035>
+Microorganisms PHAKPA
+Inoculum Concentration 2,000,000
+Inoculum Application Rate 1",2850635,Internal Seed,,INTERNAL_SEED,FALSE,"pMON52051,pMON428514","GM_A19788,GM_S22666035",,AG3555<GM_S22666035>,,,,,,,,,,,,,,,,,,"[""SUBSITE:192416""]",28949,DC-Trait-soy-ASR (PHAKPA),10217,2022_GMPXW_MSOY05,MSOY05,,,,12951,1,12249
+3,MSOY05,646bd7f36eece1d29b619f8b,module-outputs/2QCH7ugvW7KTac5oonXxV61JBaZ,ANOVA,LOCAL,2023-05-23T14:01:18.543130581Z,configuration-executions/2QCH5hTZwqApolVhpXPDm2vAe91,TRUE,,PLTDT,"TAIET:14 Days, TAXA:Soybeans, TISTY:Leaf",,factorLevelId,"[""2850636""]",32.3249,64.9251,9.9098,48.625,PCT,ab,A3555<GM_S22692864>,"Internal Seed A3555<GM_S22692864>
+Microorganisms PHAKPA
+Inoculum Concentration 2,000,000
+Inoculum Application Rate 1",2850636,Internal Seed,,INTERNAL_SEED,FALSE,pMON131712,GM_S22692864,,A3555<GM_S22692864>,,,,,,,,,,,,,,,,,,"[""SUBSITE:192416""]",28949,DC-Trait-soy-ASR (PHAKPA),10217,2022_GMPXW_MSOY05,MSOY05,,,,12951,2,12249
+4,MSOY05,646bd7f36eece1d29b619f8b,module-outputs/2QCH7ugvW7KTac5oonXxV61JBaZ,ANOVA,LOCAL,2023-05-23T14:01:18.543130581Z,configuration-executions/2QCH5hTZwqApolVhpXPDm2vAe91,TRUE,,DSP,"TAIET:14 Days, TAXA:Soybeans, TISTY:Leaf",,factorLevelId,"[""2850637""]",21.5749,54.1751,9.9098,37.875,PCT,b,A3555<GM_S22694290>,"Internal Seed A3555<GM_S22694290>
+Microorganisms PHAKPA
+Inoculum Concentration 2,000,000
+Inoculum Application Rate 1",2850637,Internal Seed,,INTERNAL_SEED,FALSE,pMON425781,GM_S22694290,,A3555<GM_S22694290>,,,,,,,,,,,,,,,,,,"[""SUBSITE:192416""]",28949,DC-Trait-soy-ASR (PHAKPA),10217,2022_GMPXW_MSOY05,MSOY05,,,,30683,2,12249
+5,MSOY05,646bd7f36eece1d29b619f8b,module-outputs/2QCH7ugvW7KTac5oonXxV61JBaZ,ANOVA,LOCAL,2023-05-23T14:01:18.543130581Z,configuration-executions/2QCH5hTZwqApolVhpXPDm2vAe91,TRUE,,DSP,"TAIET:14 Days, TAXA:Soybeans, TISTY:Leaf",,factorLevelId,"[""2850638""]",29.1999,61.8001,9.9098,45.5,PCT,ab,A3555<GM_S22694306>,"Internal Seed A3555<GM_S22694306>
+Microorganisms PHAKPA
+Inoculum Concentration 2,000,000
+Inoculum Application Rate 1",2850638,Internal Seed,,INTERNAL_SEED,FALSE,pMON425781,GM_S22694306,,A3555<GM_S22694306>,,,,,,,,,,,,,,,,,,"[""SUBSITE:192416""]",28949,DC-Trait-soy-ASR (PHAKPA),10217,2022_GMPXW_MSOY05,MSOY05,,,,30683,3,12249
+6,MSOY05,646bd7f36eece1d29b619f8b,module-outputs/2QCH7ugvW7KTac5oonXxV61JBaZ,ANOVA,LOCAL,2023-05-23T14:01:18.543130581Z,configuration-executions/2QCH5hTZwqApolVhpXPDm2vAe91,TRUE,,DSP,"TAIET:14 Days, TAXA:Soybeans, TISTY:Leaf",,factorLevelId,"[""2850639""]",50.1999,82.8001,9.9098,66.5,PCT,a,AG3555<GM_S22705416>,"Internal Seed AG3555<GM_S22705416>
+Microorganisms PHAKPA
+Inoculum Concentration 2,000,000
+Inoculum Application Rate 1",2850639,Internal Seed,,INTERNAL_SEED,FALSE,"pMON52051,pMON426569","GM_A19788,GM_S22705416",,AG3555<GM_S22705416>,,,,,,,,,,,,,,,,,,"[""SUBSITE:192416""]",28949,DC-Trait-soy-ASR (PHAKPA),10217,2022_GMPXW_MSOY05,MSOY05,,,,30683,4,12249
+7,MSOY05,646bd7f36eece1d29b619f8b,module-outputs/2QCH7ugvW7KTac5oonXxV61JBaZ,ANOVA,LOCAL,2023-05-23T14:01:18.543130581Z,configuration-executions/2QCH5hTZwqApolVhpXPDm2vAe91,TRUE,,DSP,"TAIET:14 Days, TAXA:Soybeans, TISTY:Leaf",,factorLevelId,"[""2850640""]",36.6999,69.3001,9.9098,53,PCT,ab,AG3555<GM_S22716983>,"Internal Seed AG3555<GM_S22716983>
+Microorganisms PHAKPA
+Inoculum Concentration 2,000,000
+Inoculum Application Rate 1",2850640,Internal Seed,,INTERNAL_SEED,FALSE,"pMON52051,pMON428301","GM_A19788,GM_S22716983",,AG3555<GM_S22716983>,,,,,,,,,,,,,,,,,,"[""SUBSITE:192416""]",28949,DC-Trait-soy-ASR (PHAKPA),10217,2022_GMPXW_MSOY05,MSOY05,,,,30683,5,12249
+8,MSOY05,646bd7f36eece1d29b619f8b,module-outputs/2QCH7ugvW7KTac5oonXxV61JBaZ,ANOVA,LOCAL,2023-05-23T14:01:18.543130581Z,configuration-executions/2QCH5hTZwqApolVhpXPDm2vAe91,TRUE,,DSP,"TAIET:14 Days, TAXA:Soybeans, TISTY:Leaf",,factorLevelId,"[""2850641""]",32.5749,65.1751,9.9098,48.875,PCT,ab,M-SOY5942<GM_S22721653>,"Internal Seed M-SOY5942<GM_S22721653>
+Microorganisms PHAKPA
+Inoculum Concentration 2,000,000
+Inoculum Application Rate 1",2850641,Internal Seed,,INTERNAL_SEED,FALSE,pMON427339,GM_S22721653,,M-SOY5942<GM_S22721653>,,,,,,,,,,,,,,,,,,"[""SUBSITE:192416""]",28949,DC-Trait-soy-ASR (PHAKPA),10217,2022_GMPXW_MSOY05,MSOY05,,,,30683,6,12249
+9,MSOY05,646bd7f36eece1d29b619f8b,module-outputs/2QCH7ugvW7KTac5oonXxV61JBaZ,ANOVA,LOCAL,2023-05-23T14:01:18.543130581Z,configuration-executions/2QCH5hTZwqApolVhpXPDm2vAe91,TRUE,,DSP,"TAIET:14 Days, TAXA:Soybeans, TISTY:Leaf",,factorLevelId,"[""2850642""]",42.3249,74.9251,9.9098,58.625,PCT,ab,M-SOY5942,"Internal Seed M-SOY5942
+Microorganisms PHAKPA
+Inoculum Concentration 2,000,000
+Inoculum Application Rate 1",2850642,Internal Seed,,INTERNAL_SEED,FALSE,pMON131712,GM_S22694496,,M-SOY5942,,,,,,,,,,,,,,,,,,"[""SUBSITE:192416""]",28949,DC-Trait-soy-ASR (PHAKPA),10217,2022_GMPXW_MSOY05,MSOY05,,,,30683,7,12249
+10,MSOY05,646bd7f36eece1d29b619f8b,module-outputs/2QCH7ugvW7KTac5oonXxV61JBaZ,ANOVA,LOCAL,2023-05-23T14:01:18.543130581Z,configuration-executions/2QCH5hTZwqApolVhpXPDm2vAe91,TRUE,,DSP,"TAIET:14 Days, TAXA:Soybeans, TISTY:Leaf",,factorLevelId,"[""2850643""]",26.4499,59.0501,9.9098,42.75,PCT,b,Null,"Internal Seed Null
+Microorganisms PHAKPA
+Inoculum Concentration 2,000,000
+Inoculum Application Rate 1",2850643,Internal Seed,,INTERNAL_SEED,FALSE,,,,,,,,,,,,,,,,,,,,,,"[""SUBSITE:192416""]",28949,DC-Trait-soy-ASR (PHAKPA),10217,2022_GMPXW_MSOY05,MSOY05,,,,30683,8,12249
+11,Fungicide,646bd7f36eece1d29b619f8b,module-outputs/2QCH7ugvW7KTac5oonXxV61JBaZ,ANOVA,LOCAL,2023-05-23T14:01:18.543130581Z,configuration-executions/2QCH5hTZwqApolVhpXPDm2vAe92,TRUE,,DSP,"TAIET:14 Days, TAXA:Soybeans, TISTY:Leaf",,factorLevelId,"[""2850643""]",0.3845,8.3655,2.394,4.375,PCT,e,100-1098,"Fungicide 100-1098,
+Application Rate (ppm) 25,
+Timing of Treatment Application Relative to Inoculum Application Date 2 days before inoculation HR,
+Application Method Hand Application METHOD,
+Application Volume 1 GAL_PER_AC,
+Microorganisms PHAKPA,
+Applied Concentration of Inoculum Carrier - Propagule per Milliliter 100000 PROP_PER_ML,
+Application Rate - Inoculum Carrier in Count Per Experimental Units 2 ML_PER_EU,
+Inoculation Relative to Days After Planting 14 Days DAY",7969-246,Fungicide,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12520,1,12249
+12,Fungicide,646bd7f36eece1d29b619f8b,module-outputs/2QCH7ugvW7KTac5oonXxV61JBaZ,ANOVA,LOCAL,2023-05-23T14:01:18.543130581Z,configuration-executions/2QCH5hTZwqApolVhpXPDm2vAe93,TRUE,,DSP,"TAIET:14 Days, TAXA:Soybeans, TISTY:Leaf",,factorLevelId,"[""2850643""]",1.0095,8.9905,2.394,5,PCT,e,7969-246,"Fungicide 7969-246,
+Application Rate (ppm) 10,
+Timing of Treatment Application Relative to Inoculum Application Date 2 days before inoculation HR,
+Application Method Hand Application METHOD,
+Application Volume 1 GAL_PER_AC,
+Microorganisms PHAKPA,
+Applied Concentration of Inoculum Carrier - Propagule per Milliliter 100000 PROP_PER_ML,
+Application Rate - Inoculum Carrier in Count Per Experimental Units 2 ML_PER_EU,
+Inoculation Relative to Days After Planting 14 Days DAY",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3883,1,12249
+13,Fungicide,646bd7f36eece1d29b619f8b,module-outputs/2QCH7ugvW7KTac5oonXxV61JBaZ,ANOVA,LOCAL,2023-05-23T14:01:18.543130581Z,configuration-executions/2QCH5hTZwqApolVhpXPDm2vAe94,TRUE,,PINC,"TAIET:14 Days, TAXA:Soybeans, TISTY:Leaf",,factorLevelId,"[""2850643""]",74.7595,82.7405,2.394,78.75,PCT,d,BCS-DJ63944,"Fungicide BCS-DJ63944,
+Application Rate (ppm) 200,
+Timing of Treatment Application Relative to Inoculum Application Date 2 days before inoculation HR,
+Application Method Hand Application METHOD,
+Application Volume 1 GAL_PER_AC,
+Microorganisms PHAKPA,
+Applied Concentration of Inoculum Carrier - Propagule per Milliliter 100000 PROP_PER_ML,
+Application Rate - Inoculum Carrier in Count Per Experimental Units 2 ML_PER_EU,
+Inoculation Relative to Days After Planting 14 Days DAY",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12520,2,12249
+14,Fungicide,646bd7f36eece1d29b619f8b,module-outputs/2QCH7ugvW7KTac5oonXxV61JBaZ,ANOVA,LOCAL,2023-05-23T14:01:18.543130581Z,configuration-executions/2QCH5hTZwqApolVhpXPDm2vAe95,TRUE,,DSP,"TAIET:14 Days, TAXA:Soybeans, TISTY:Leaf",,factorLevelId,"[""2850643""]",77.2595,85.2405,2.394,81.25,PCT,cd,,"Fungicide MON 59148 Application Rate (ppm) 500 Timing of Treatment Application Relative to Inoculum Application Date 2 days before inoculation HR Application Method Hand Application METHOD Application Volume 1 GAL_PER_AC Microorganisms PHAKPA Applied Concentration of Inoculum Carrier - Propagule per Milliliter 100000 PROP_PER_ML Application Rate - Inoculum Carrier in Count Per Experimental Units 2 ML_PER_EU Inoculation Relative to Days After Planting 14 Days DAY,
+Fungicide 4% Acetone Application Rate (ppm) 40000 Timing of Treatment Application Relative to Inoculum Application Date 2 days before inoculation HR Application Method Hand Application METHOD Application Volume 1 GAL_PER_AC Microorganisms PHAKPA Applied Concentration of Inoculum Carrier - Propagule per Milliliter 100000 PROP_PER_ML Application Rate - Inoculum Carrier in Count Per Experimental Units 2 ML_PER_EU Inoculation Relative to Days After Planting 14 Days DAY",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3883,2,12249
+15,Fungicide,646bd7f36eece1d29b619f8b,module-outputs/2QCH7ugvW7KTac5oonXxV61JBaZ,ANOVA,LOCAL,2023-05-23T14:01:18.543130581Z,configuration-executions/2QCH5hTZwqApolVhpXPDm2vAe96,TRUE,,INFAPPDT,"TAIET:14 Days, TAXA:Soybeans, TISTY:Leaf",,factorLevelId,"[""2850643""]",77.2595,85.2405,2.394,81.25,PCT,cd,BCS-DM10605,"Fungicide BCS-DM10605,
+Application Rate (ppm) 50,
+Timing of Treatment Application Relative to Inoculum Application Date 2 days before inoculation HR,
+Application Method Hand Application METHOD,
+Application Volume 1 GAL_PER_AC,
+Microorganisms PHAKPA,
+Applied Concentration of Inoculum Carrier - Propagule per Milliliter 100000 PROP_PER_ML,
+Application Rate - Inoculum Carrier in Count Per Experimental Units 2 ML_PER_EU,
+Inoculation Relative to Days After Planting 14 Days DAY",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12684,1,12249
+16,Fungicide,646bd7f36eece1d29b619f8b,module-outputs/2QCH7ugvW7KTac5oonXxV61JBaZ,ANOVA,LOCAL,2023-05-23T14:01:18.543130581Z,configuration-executions/2QCH5hTZwqApolVhpXPDm2vAe97,TRUE,,DSP,"TAIET:14 Days, TAXA:Soybeans, TISTY:Leaf",,factorLevelId,"[""2850643""]",81.0095,88.9905,2.394,85,PCT,bc,BCS-DM10648,"Fungicide BCS-DM10648,
+Application Rate (ppm) 50,
+Timing of Treatment Application Relative to Inoculum Application Date 2 days before inoculation HR,
+Application Method Hand Application METHOD,
+Application Volume 1 GAL_PER_AC,
+Microorganisms PHAKPA,
+Applied Concentration of Inoculum Carrier - Propagule per Milliliter 100000 PROP_PER_ML,
+Application Rate - Inoculum Carrier in Count Per Experimental Units 2 ML_PER_EU,
+Inoculation Relative to Days After Planting 14 Days DAY",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3883,3,12249
+17,Fungicide,646bd7f36eece1d29b619f8b,module-outputs/2QCH7ugvW7KTac5oonXxV61JBaZ,ANOVA,LOCAL,2023-05-23T14:01:18.543130581Z,configuration-executions/2QCH5hTZwqApolVhpXPDm2vAe98,TRUE,,DSP,"TAIET:14 Days, TAXA:Soybeans, TISTY:Leaf",,factorLevelId,"[""2850643""]",81.0095,88.9905,2.394,85,PCT,bc,BCS-DM10605,"Fungicide BCS-DM10605,
+Application Rate (ppm) 200,
+Timing of Treatment Application Relative to Inoculum Application Date 2 days before inoculation HR,
+Application Method Hand Application METHOD,
+Application Volume 1 GAL_PER_AC,
+Microorganisms PHAKPA,
+Applied Concentration of Inoculum Carrier - Propagule per Milliliter 100000 PROP_PER_ML,
+Application Rate - Inoculum Carrier in Count Per Experimental Units 2 ML_PER_EU,
+Inoculation Relative to Days After Planting 14 Days DAY",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3883,4,12249
+18,Fungicide,646bd7f36eece1d29b619f8b,module-outputs/2QCH7ugvW7KTac5oonXxV61JBaZ,ANOVA,LOCAL,2023-05-23T14:01:18.543130581Z,configuration-executions/2QCH5hTZwqApolVhpXPDm2vAe99,TRUE,,DSP,"TAIET:14 Days, TAXA:Soybeans, TISTY:Leaf",,factorLevelId,"[""2850643""]",84.7595,92.7405,2.394,88.75,PCT,ab,,"No Fungicide,
+No Application Rate (ppm),
+No Timing of Treatment Application Relative to Inoculum Application Date,
+No Application Method,
+No Application Volume,
+No Microorganisms,
+No Applied Concentration of Inoculum Carrier - Propagule per Milliliter,
+No Application Rate - Inoculum Carrier in Count Per Experimental Units,
+No Inoculation Relative to Days After Planting",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3883,5,12249
+19,Fungicide,646bd7f36eece1d29b619f8b,module-outputs/2QCH7ugvW7KTac5oonXxV61JBaZ,ANOVA,LOCAL,2023-05-23T14:01:18.543130581Z,configuration-executions/2QCH5hTZwqApolVhpXPDm2vAe100,TRUE,,INFAPPDT,"TAIET:14 Days, TAXA:Soybeans, TISTY:Leaf",,factorLevelId,"[""2850643""]",88.5095,96.4905,2.394,92.5,PCT,a,BCS-DM10648,"Fungicide BCS-DM10648,
+Application Rate (ppm) 200,
+Timing of Treatment Application Relative to Inoculum Application Date 2 days before inoculation HR,
+Application Method Hand Application METHOD,
+Application Volume 1 GAL_PER_AC,
+Microorganisms PHAKPA,
+Applied Concentration of Inoculum Carrier - Propagule per Milliliter 100000 PROP_PER_ML,
+Application Rate - Inoculum Carrier in Count Per Experimental Units 2 ML_PER_EU,
+Inoculation Relative to Days After Planting 14 Days DAY",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12684,2,12249
+20,Fungicide,646bd7f36eece1d29b619f8b,module-outputs/2QCH7ugvW7KTac5oonXxV61JBaZ,ANOVA,LOCAL,2023-05-23T14:01:18.543130581Z,configuration-executions/2QCH5hTZwqApolVhpXPDm2vAe101,TRUE,,DSP,"TAIET:14 Days, TAXA:Soybeans, TISTY:Leaf",,factorLevelId,"[""2850643""]",89.7595,97.7405,2.394,93.75,PCT,a,BCS-DJ63944,"Fungicide BCS-DJ63944,
+Application Rate (ppm) 50,
+Timing of Treatment Application Relative to Inoculum Application Date 2 days before inoculation HR,
+Application Method Hand Application METHOD,
+Application Volume 1 GAL_PER_AC,
+Microorganisms PHAKPA,
+Applied Concentration of Inoculum Carrier - Propagule per Milliliter 100000 PROP_PER_ML,
+Application Rate - Inoculum Carrier in Count Per Experimental Units 2 ML_PER_EU,
+Inoculation Relative to Days After Planting 14 Days DAY",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3883,6,12249

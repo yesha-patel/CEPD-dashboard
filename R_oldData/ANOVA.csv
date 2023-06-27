@@ -1,0 +1,2 @@
+﻿Experiment Id,Block Id,Block Name,Question Code,Answer Filters,Uom Code,Experiment Type,Datacut Name,Subsite Name,Analysis Scope,Treatment Effects/Source,LSD,MSE,P Value,F Statistic,LQI
+3883,12249,,DSP,"ANSM:User Collected,TAIET:14 Days,TAXA:Soybeans,TISTY:Leaf",PCT,RCB,ALL,,GLOBAL,"[""Fungicide""]",5.6434,45.8482,7.32E-47,208.1,"[""undefined:1.1551"",""undefined:1.2837"",""undefined:0.7601"",""undefined:1.5447"",""undefined:1.1471"",""undefined:0.894"",""undefined:1.0283"",""undefined:0.5969""]"

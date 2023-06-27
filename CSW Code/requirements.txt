@@ -1,0 +1,5 @@
+smart_open
+google-cloud-bigquery[bqstorage,pandas]==3.0.1
+google-auth==2.6.2
+google-auth-oauthlib==0.5.1
+pydata-google-auth==1.4.0
